@@ -1,0 +1,11 @@
+C:\Users\XT\Desktop\ProyectoCliente\CapaBaseDatos\bin\Debug\net8.0\CapaBaseDatos.deps.json
+C:\Users\XT\Desktop\ProyectoCliente\CapaBaseDatos\bin\Debug\net8.0\CapaBaseDatos.dll
+C:\Users\XT\Desktop\ProyectoCliente\CapaBaseDatos\bin\Debug\net8.0\CapaBaseDatos.pdb
+C:\Users\XT\Desktop\ProyectoCliente\CapaBaseDatos\obj\Debug\net8.0\CapaBaseDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XT\Desktop\ProyectoCliente\CapaBaseDatos\obj\Debug\net8.0\CapaBaseDatos.AssemblyInfoInputs.cache
+C:\Users\XT\Desktop\ProyectoCliente\CapaBaseDatos\obj\Debug\net8.0\CapaBaseDatos.AssemblyInfo.cs
+C:\Users\XT\Desktop\ProyectoCliente\CapaBaseDatos\obj\Debug\net8.0\CapaBaseDatos.csproj.CoreCompileInputs.cache
+C:\Users\XT\Desktop\ProyectoCliente\CapaBaseDatos\obj\Debug\net8.0\CapaBaseDatos.dll
+C:\Users\XT\Desktop\ProyectoCliente\CapaBaseDatos\obj\Debug\net8.0\refint\CapaBaseDatos.dll
+C:\Users\XT\Desktop\ProyectoCliente\CapaBaseDatos\obj\Debug\net8.0\CapaBaseDatos.pdb
+C:\Users\XT\Desktop\ProyectoCliente\CapaBaseDatos\obj\Debug\net8.0\ref\CapaBaseDatos.dll

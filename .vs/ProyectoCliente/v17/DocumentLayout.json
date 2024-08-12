@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\XT\\Desktop\\ProyectoCliente\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED1ADE4-28A6-4C8A-AAA1-4E6FFD16F73C}|ProyectoCliente\\CapaPresentacion.csproj|c:\\users\\xt\\desktop\\proyectocliente\\proyectocliente\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED1ADE4-28A6-4C8A-AAA1-4E6FFD16F73C}|ProyectoCliente\\CapaPresentacion.csproj|solutionrelative:proyectocliente\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED1ADE4-28A6-4C8A-AAA1-4E6FFD16F73C}|ProyectoCliente\\CapaPresentacion.csproj|c:\\users\\xt\\desktop\\proyectocliente\\proyectocliente\\controladorclientetcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED1ADE4-28A6-4C8A-AAA1-4E6FFD16F73C}|ProyectoCliente\\CapaPresentacion.csproj|solutionrelative:proyectocliente\\controladorclientetcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\XT\\Desktop\\ProyectoCliente\\ProyectoCliente\\Login.cs",
+              "RelativeDocumentMoniker": "ProyectoCliente\\Login.cs",
+              "ToolTip": "C:\\Users\\XT\\Desktop\\ProyectoCliente\\ProyectoCliente\\Login.cs",
+              "RelativeToolTip": "ProyectoCliente\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:36:39.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ControladorClienteTCP.cs",
+              "DocumentMoniker": "C:\\Users\\XT\\Desktop\\ProyectoCliente\\ProyectoCliente\\ControladorClienteTCP.cs",
+              "RelativeDocumentMoniker": "ProyectoCliente\\ControladorClienteTCP.cs",
+              "ToolTip": "C:\\Users\\XT\\Desktop\\ProyectoCliente\\ProyectoCliente\\ControladorClienteTCP.cs",
+              "RelativeToolTip": "ProyectoCliente\\ControladorClienteTCP.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T03:29:19.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
